@@ -7,7 +7,7 @@ Just me messing around with T3 stack
 - [x] Make it deploy (vercel)
 - [x] Scaffold basic ui with mock data
 - [x] Tidy up build process
-- [ ] Actually set up database  (vercel postgres)
+- [x] Actually set up database  (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (clerk)
 - [ ] Add image upload
